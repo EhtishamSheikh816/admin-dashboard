@@ -221,7 +221,7 @@ export default function AdminDashboard() {
                                     src={urlFor(item.image).url()}
                                     width={40}
                                     height={40}
-                                    alt={item.name}
+                                    alt="as"
                                   />
                                 )}
                               </li>
